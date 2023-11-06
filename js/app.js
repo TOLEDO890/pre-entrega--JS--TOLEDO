@@ -6,6 +6,7 @@ while (!/^[A-Za-z]+$/.test(nombrePerro) || nombrePerro.trim() === "") {
   );
   nombrePerro = prompt("Ingresa el nombre de tu perro nuevamente");
 }
+console.log("bienvenido dueño de" + " " + nombrePerro)
 alert("bienvenido dueño de" + " " + nombrePerro);
 let añosHumanos = parseInt(prompt("Ingresa la edad de " + nombrePerro));
 while (true) {
@@ -17,15 +18,17 @@ while (true) {
     añosHumanos = parseInt(prompt("Ingresa la edad de " + nombrePerro));
   } else {
     alert("La edad humana de " + nombrePerro + " es " + añosHumanos);
-    console.log("Validación completa");
+    console.log("La edad humana de " + nombrePerro + " es " + añosHumanos);
     break;
   }
 }
 function multiplicar(a, b) {
-    return a * b;
-  }
+  return a * b;
+}
 let añosPerros = 7;
 let resultado = multiplicar(añosHumanos, añosPerros);
-
+console.log(
+  "la edad real de " + " " + nombrePerro + " " + "es" + " " + resultado
+);
 alert("la edad real de " + " " + nombrePerro + " " + "es" + " " + resultado);
 alert("gracias por visitar nuestro sitio web");
