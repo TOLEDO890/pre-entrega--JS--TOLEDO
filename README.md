@@ -1,33 +1,34 @@
-Dog Age Calculator Project
-English
-Overview
-This is a simple JavaScript project that calculates the age of a dog in "dog years." Dogs age at a different rate than humans, and this project helps you determine the equivalent age of your furry friend in human years.
+# Página Web de Pre-Entrega de Proyecto de JavaScript - Toledo
+Esta es la página web de pre-entrega de mi proyecto de JavaScript. Aquí encontrarás información sobre el proyecto, cómo usarlo y cómo colaborar en su desarrollo.
 
-How It Works
-Enter your dog's age in years.
-Click the "Calculate" button.
-The program will display your dog's age in human years, based on a common formula used to estimate dog age.
-Technologies Used
-HTML: Used for creating the user interface.
-JavaScript: Used for the age calculation.
-CSS: Used for styling the interface.
-How to Use
-Clone or download the repository to your computer.
-Open the index.html file in your web browser.
-Enter your dog's age and click the "Calculate" button to see the result.
-Español
-Resumen
-Este es un sencillo proyecto de JavaScript que calcula la edad de un perro en "años de perro". Los perros envejecen a una tasa diferente que los humanos, y este proyecto te ayuda a determinar la edad equivalente de tu amigo peludo en años humanos.
+## Contenido
 
-Cómo Funciona
-Ingresa la edad de tu perro en años.
-Haz clic en el botón "Calcular".
-El programa mostrará la edad de tu perro en años humanos, basándose en una fórmula comúnmente utilizada para estimar la edad de los perros.
-Tecnologías Utilizadas
-HTML: Utilizado para crear la interfaz de usuario.
-JavaScript: Utilizado para el cálculo de la edad.
-CSS: Utilizado para dar estilo a la interfaz.
-Cómo Usar
-Clona o descarga el repositorio en tu ordenador.
-Abre el archivo index.html en tu navegador web.
-Ingresa la edad de tu perro y haz clic en el botón "Calcular" para ver el resultado.
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Instrucciones de Uso](#instrucciones-de-uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Descripción del Proyecto
+
+Esta página web es la pre-entrega de un proyecto desarrollado en JavaScript por Amador Toledo. Proporciona una vista previa de lo que el proyecto tiene para ofrecer y sirve como una demostración de sus características principales. Incluye (o menciona) características como:
+
+- Algoritmos condicionales
+- Algoritmos con ciclos 
+- Funcion de multiplicar
+
+## Instrucciones de Uso
+
+Para ver esta página web, simplemente visita (https://toledo890.github.io/pre-entrega--JS--TOLEDO/).
+
+## Contribución
+
+¡Tu contribución es bienvenida! Si deseas colaborar en el desarrollo de este proyecto, puedes seguir estos pasos:
+
+1. Haz un fork del repositorio.
+2. Clona tu fork en tu máquina local.
+3. Realiza las modificaciones necesarias.
+4. Sube tus cambios a tu fork.
+5. Abre un pull request con una descripción detallada de los cambios propuestos.
+
+¡Espero que encuentres esta información útil! Si tienes alguna pregunta o necesitas más detalles, no dudes en contactarme.
+
